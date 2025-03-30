@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.line-star {
+  background-color: white;
+  width: 60px;
+  height: 3px;
+  display: inline-block;
+}
+.home,
+.about,
+.protfolio {
+  background-color: rgb(26, 188, 156);
+  min-height: 100vh;
+}

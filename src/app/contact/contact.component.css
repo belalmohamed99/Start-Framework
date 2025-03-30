@@ -1,0 +1,15 @@
+label {
+  color: rgb(26, 188, 156);
+  transition: 0.6s top;
+  margin-bottom: 7px;
+}
+input.form-control:focus {
+  box-shadow: none;
+}
+.btn {
+  background-color: rgb(26, 188, 156);
+  border-color: rgb(26, 188, 156);
+}
+._top {
+  top: 40px !important;
+}
